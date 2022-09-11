@@ -1,7 +1,7 @@
 import React,{Component} from 'react'
 import {Navbar} from 'react-bootstrap/Navbar'
 import FilterStyleOneProduct from './filter-style-one';
-impory
+import ProductCategoryMenu from './product-category-menu';
 
 class ProductFilterOne extends Component {
     state = {
@@ -22,7 +22,7 @@ class ProductFilterOne extends Component {
             <div className="product-filter-for-index-03">
                 <div className="container custom-container-1720">
                     <div className="row">
-                        
+                        <ProductCategoryMenu />
                         <FilterStyleOneProduct />
                     </div>
                 </div>
