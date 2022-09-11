@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="119.223" height="119.223" viewBox="0 0 119.223 119.223">
+  <g id="Complete_Green_Icon" data-name="Complete Green Icon" transform="translate(-900.077 -1203.077)">
+    <circle id="Ellipse_262" data-name="Ellipse 262" cx="59.612" cy="59.612" r="59.612" transform="translate(900.077 1203.077)" fill="#00b106"/>
+    <path id="Path_11524" data-name="Path 11524" d="M88.352,286.638l28.511,28a59.624,59.624,0,0,0,43.1-57.277c0-.527-.025-1.047-.04-1.57l-27.079-27.08Z" transform="translate(859.337 1005.329)" fill="#009805"/>
+    <g id="Group_9456" data-name="Group 9456" transform="translate(859.337 1005.329)">
+      <g id="Group_9454" data-name="Group 9454">
+        <path id="Path_11525" data-name="Path 11525" d="M92.029,287.615a7.4,7.4,0,0,1-5.814-2.808L66.657,260.134a7.412,7.412,0,1,1,11.617-9.21L97.831,275.6a7.413,7.413,0,0,1-5.8,12.018Z" fill="#fff"/>
+      </g>
+      <g id="Group_9455" data-name="Group 9455">
+        <path id="Path_11526" data-name="Path 11526" d="M92.018,287.615a7.413,7.413,0,0,1-5.8-12.018l36.216-45.684a7.412,7.412,0,0,1,11.616,9.21L97.831,284.807A7.4,7.4,0,0,1,92.018,287.615Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
